@@ -28,10 +28,6 @@ Ever wondered how machine learning models can tell animals apart in photos? This
 
 3. **Install dependencies**
    - Make sure you have Python 3.8+ and Jupyter Notebook.
-   - Install required packages:
-     ```bash
-     pip install -r requirements.txt
-     ```
 
 4. **Run the notebook**
    - Launch Jupyter Notebook:
@@ -44,12 +40,12 @@ Ever wondered how machine learning models can tell animals apart in photos? This
 
 - **Data Loading**: Images are loaded and split into training and testing sets.
 - **Preprocessing**: Images are resized, normalized, and augmented for better learning.
-- **Model Training**: A deep learning model (e.g., CNN) is trained using your dataset.
+- **Model Training**: Different machine learning model is trained using your dataset.
 - **Evaluation**: The model’s accuracy is evaluated—shoot for that 90%!
 
 ## 🤗 Why try this project?
 
-- Learn hands-on about computer vision and deep learning.
+- Learn hands-on about computer vision and machine learning.
 - Build your own dataset—a vital skill in real-world ML projects.
 - See tangible results as your model gets smarter.
 
@@ -57,10 +53,6 @@ Ever wondered how machine learning models can tell animals apart in photos? This
 
 Found a bug or want to add a new feature?  
 Feel free to open an issue or PR. All contributions are warmly welcomed!
-
-## 📄 License
-
-This project currently does not specify a license. Please check with the repository owner if you plan to use or distribute the code.
 
 ---
 
