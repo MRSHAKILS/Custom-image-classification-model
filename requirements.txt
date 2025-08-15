@@ -1,0 +1,6 @@
+# This file is used to specify the dependencies for the project.
+tensorflow==2.10.0
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.7.1
+scikit-learn==1.2.2
