@@ -13,7 +13,7 @@ The project demonstrates the end-to-end process of building an image classificat
 
 - **Custom Dataset**: 100+ images per class, organized for supervised learning.
 - **Comprehensive Workflow**: Includes data cleaning, preprocessing, augmentation, model training, and evaluation.
-- **Multiple Models**: Experiments with various machine learning and deep learning algorithms (e.g., CNN, XGBoost, KNN, Decision Tree, Logistic Regression).
+- **Multiple Models**: Experiments with various machine learning and deep learning algorithms (e.g., XGBoost, KNN, Decision Tree, SVM-RBF Kernel, Logistic Regression).
 - **Jupyter Notebooks**: All code and experiments are documented in interactive notebooks for reproducibility and clarity.
 
 ## Getting Started
