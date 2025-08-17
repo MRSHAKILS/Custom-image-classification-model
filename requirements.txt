@@ -1,6 +1,48 @@
-# This file is used to specify the dependencies for the project.
-tensorflow==2.10.0
-numpy==1.23.5
-pandas==1.5.3
-matplotlib==3.7.1
-scikit-learn==1.2.2
+# Custom Image Classification Model Dependencies
+# Core ML and Data Science Libraries
+numpy>=1.23.5
+pandas>=1.5.3
+scikit-learn>=1.2.2
+matplotlib>=3.7.1
+seaborn>=0.12.0
+
+# Deep Learning Frameworks
+tensorflow>=2.10.0
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Computer Vision Libraries
+opencv-python>=4.7.0
+scikit-image>=0.20.0
+Pillow>=9.4.0
+
+# Machine Learning Libraries
+xgboost>=1.7.0
+lightgbm>=3.3.5
+
+# Progress Bars and Utilities
+tqdm>=4.64.0
+joblib>=1.2.0
+
+# Dimensionality Reduction and Visualization
+umap-learn>=0.5.3
+
+# Model Interpretation
+shap>=0.41.0
+
+# Data Manipulation and File Handling
+glob2>=0.7
+pathlib>=1.0.1
+
+# Jupyter Notebook Support
+ipykernel>=6.16.0
+jupyter>=1.0.0
+
+# Additional Utilities
+warnings
+os-sys
+pickle-mixin
+
+# Optional: GPU acceleration (uncomment if using CUDA)
+# tensorflow-gpu>=2.10.0
+# torch[cuda]>=1.13.0
