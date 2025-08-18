@@ -62,8 +62,8 @@ Contributions, suggestions, and improvements are welcome. Please open an issue o
 
 ---
 
-**Course:** CSE445 (Machine Learning)
-**Institution:** North South University
+**Course:** CSE445 (Machine Learning) </br>
+**Institution:** North South University </br>
 **Instructor:** [Dr. Mohammad Shifat-E-Rabbi (MSRB)](https://ece.northsouth.edu/people/dr-mohammad-shifat-e-rabbi/)
 
 **Contributors:**
