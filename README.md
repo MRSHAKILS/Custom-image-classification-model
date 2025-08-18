@@ -9,8 +9,6 @@ This repository contains the implementation and resources for a custom image cla
 
 The project demonstrates the end-to-end process of building an image classification system using machine learning techniques. It covers dataset preparation, preprocessing, model selection, training, evaluation, and result analysis. The primary goal is to achieve at least **90% accuracy** in classifying the five animal categories.
 
-https://github.com/MRSHAKILS/Custom-image-classification-model/blob/main/others/445%20Project%20Presentation%20Video.mp4
-
 ## Key Features
 
 - **Custom Dataset**: 100+ images per class, organized for supervised learning.
@@ -65,12 +63,10 @@ Contributions, suggestions, and improvements are welcome. Please open an issue o
 ---
 
 **Course:** CSE445 (Machine Learning)
-
 **Institution:** North South University
-
 **Instructor:** [Dr. Mohammad Shifat-E-Rabbi (MSRB)](https://ece.northsouth.edu/people/dr-mohammad-shifat-e-rabbi/)
 
-**Authors:**
+**Contributors:**
 
 | Name                         | ID         |
 |------------------------------|------------|
